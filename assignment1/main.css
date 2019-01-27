@@ -1,0 +1,89 @@
+body {position: absolute;
+    margin: auto;}
+
+#bg {position: relative;
+    padding: 3em 1em;
+    margin: 3em;
+    bottom: 7em;}
+
+/*BACKGROUND IMAGE*/
+
+#top {background-color: #C41A4B;
+                color: white;
+                width: 654px; 
+                height: 100px;
+                padding: 2em 0 0 0;
+                margin-left: 5%;
+                margin-right: 5%;
+                position: relative;
+                bottom: 600px;
+                left: 1.5em;}
+
+#top h1,h2 {text-align: center;
+            padding-right: 11px;
+            padding-left: 11px;
+            letter-spacing: 0.5;}
+
+#top h1 {font-size: 40pt;
+        margin-top: 0;
+        position: relative;
+        bottom: 75px;}
+
+#top h2 {font-size: 25pt;
+        padding: 0;
+        position: relative;
+        bottom: 40px;}
+
+/*BORDER TOP*/
+
+#right {position: absolute;
+        margin: 0 27em;
+        bottom: 343px;
+        padding-right: 222px;
+        width: 26px; 
+        height: 242px;
+        background-color:hsl(347, 78%, 61%);
+        border-radius: 10px;
+        color: white;
+        font-family: "Helvetica";
+        font-weight: 20;}
+
+#right h3 {display:block;
+            padding-left: 20px;
+            width: 200px;
+            font-weight: bold;
+            font-size: 12pt;
+            padding-top: 10px;}
+
+#right p {display:block;
+          padding: 1em 20px;
+          width: 220px;
+          font-size: 9pt;
+          position: relative;
+          bottom: 18px;
+          line-height: 1.4;}
+
+/*RIGHT SECTION*/
+
+#button {position: absolute;
+        bottom: 370px;
+        left: 480px;}
+
+#button button {height: 45px;
+                border-radius: 10px;
+                font-weight: bold;
+                width: 150px;
+                background-color: #FFC5C1;
+                color: #582A12;
+                font-family: 'Times New Roman';
+                font-size: 11pt;}
+
+#button img {height: 20px;
+            position: absolute;
+            left: 110px;
+            bottom: 11px;
+            padding-left: 10px;}
+
+/*BUTTON*/
+
+
